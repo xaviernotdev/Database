@@ -15,7 +15,6 @@
     "8500421591:AAEazhbH1KBaTDIBEQaXYZZVEmWqc3wTpWs",
     "8727090070:AAFnmC_XwkxEXej6-0I8EB7oQCG_CZFPh_M",
     "8237544419:AAErKv0WCGS6xtTSwa-tT2x3DynTbd0LJe8",
-    "asuadu",
     "8661159203:AAFWGXiqbrD4TpsmXca9mI_Yvv1cgQaYSnY"
   ]
 }
