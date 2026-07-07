@@ -1,6 +1,20 @@
 {
   "tokens": [
-    "8979335581:AAEl-jNBGDiOmIRuENlq0uL-a_hzZE6wqqA",
-    "8581294586:AAG0ba4Is8iyr8T6U5mrWgGYXWiTqtUgPnw"
+    {
+      "token": "8979335581:AAEl-jNBGDiOmIRuENlq0uL-a_hzZE6wqqA",
+      "expiresAt": null,
+      "addedBy": null
+    },
+    {
+      "token": "8581294586:AAG0ba4Is8iyr8T6U5mrWgGYXWiTqtUgPnw",
+      "expiresAt": null,
+      "addedBy": null
+    },
+    {
+      "token": "Halo",
+      "expiresAt": 1783486084932,
+      "addedBy": "1238571022",
+      "reminded": false
+    }
   ]
 }
