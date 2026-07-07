@@ -14,7 +14,7 @@
       "token": "Halo",
       "expiresAt": 1783486084932,
       "addedBy": "1238571022",
-      "reminded": false
+      "reminded": true
     }
   ]
 }
