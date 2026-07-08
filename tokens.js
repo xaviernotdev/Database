@@ -9,12 +9,6 @@
       "token": "8581294586:AAG0ba4Is8iyr8T6U5mrWgGYXWiTqtUgPnw",
       "expiresAt": null,
       "addedBy": null
-    },
-    {
-      "token": "1",
-      "expiresAt": 1783487741828,
-      "addedBy": "1238571022",
-      "reminded": true
     }
   ]
 }
